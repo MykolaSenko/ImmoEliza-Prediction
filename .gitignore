@@ -1,0 +1,5 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+
+# virtual environment
+ImmoElizaAnalysis_Env/
